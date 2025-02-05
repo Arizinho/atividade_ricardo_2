@@ -1,6 +1,6 @@
-# Temporizador de um Disparo
+# Temporizador de um disparo
 
-Este projeto implementa a configuração de um alarme (temporizador one-shot) para controlar o desligamento em cascata de três LEDs (azul, vermelho e verde) utilizando a Raspberry Pi Pico W. Inicialmente, os LEDs são acesos através do pressionamento de um botão e, em seguida, desligados automaticamente, um após o outro, a cada 3 segundos pelo alarme.
+Este projeto implementa a configuração de um alarme (temporizador one shot) para controlar o desligamento em cascata de três LEDs (azul, vermelho e verde) utilizando a Raspberry Pi Pico W. Inicialmente, os LEDs são acesos através do pressionamento de um botão e, em seguida, desligados automaticamente, um após o outro, a cada 3 segundos pelo alarme.
 
 ---
 
@@ -30,4 +30,4 @@ Os pinos GPIO da Raspberry Pi Pico W estão configurados conforme a tabela abaix
 
 Link do vídeo:
 
-https://drive.google.com/file/d/1VXEfgnm6a1NYm3uRt1uxuv77K7U9XTPa/view?usp=sharing
+https://drive.google.com/file/d/1VXEfgnm6a1NYm3uRt1uxuv77K7U9XTPa/view?usp=sharing](https://drive.google.com/file/d/1UXjkDk3WakhlzHwS9aigx_iaIrGgA5sP/view?usp=sharing
